@@ -1,4 +1,4 @@
-git-bulk
-========
+os-repo-manager
+===============
 
-OpenStack repository manager git extension.
+OpenStack repository manager.
